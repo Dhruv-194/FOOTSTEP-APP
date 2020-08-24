@@ -1,6 +1,6 @@
 # **FOOTSTEP APP**
 **Project ID: 03**
->## **Project Mentors: Dhruv Mehta, Vishal Jagdale**
+>## **Project Mentors: Dhruv Mehta**
 
 >## ✍&nbsp; PROJECT DESCRIPTION
 
